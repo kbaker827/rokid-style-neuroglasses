@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Rokid Style NeuroGlasses</string>
+    <string name="btn_hold_to_talk">Hold to talk</string>
+    <string name="btn_recording">Release to send</string>
+    <string name="btn_processing">Processing...</string>
+    <string name="btn_thinking">Thinking...</string>
+    <string name="btn_speaking">Speaking...</string>
+</resources>
